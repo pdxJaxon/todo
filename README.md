@@ -1,2 +1,0 @@
-# todo
-learning react
